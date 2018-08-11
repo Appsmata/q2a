@@ -1,8 +1,17 @@
-## Welcome to Q2A Plugins by Jackson Siro
+## Q2A Plugins by Jackson Siro
 
-You can use the [editor on GitHub](https://github.com/JackSiro/q2asmata.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. Blog Post [Free & Premium @ $30] - https://github.com/JackSiro/Q2A-Blog-Post-Plugin
+2. Closed Site [Free] - https://github.com/JackSiro/Q2A-Closed-Site-Plugin
+3. Simple Slider  [Free] - https://github.com/JackSiro/Q2A-Simple-Slider-Plugin
+4. Private Message Adapter [Premium @ $30] - https://github.com/JackSiro/Q2A-PM-Adapter-Plugin
+5. Advanced Tags  [Premium @ $30] - https://github.com/JackSiro/Q2A-Advanced-Tags-Plugin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Q2A Core Hacks https://github.com/JackSiro/Question2Answer
+
+FYI: I can make you a custom plugin at a request simply do two things:
+1. Add your plugin suggestion here http://www.question2answer.org/qa/65702/plugin-requests-what-plugins-wish-have-developed-your-site
+2. Then mail me on: jaksiro@gmail.com
+
 
 ### Markdown
 
