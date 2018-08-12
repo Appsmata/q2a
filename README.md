@@ -1,5 +1,5 @@
-## Q2A Plugins by Jacksiro
-==========================
+Q2A Plugins by Jacksiro
+
 Plugin Requests
 ---------------
 I can make custom plugins at a request. Simply do two things:
