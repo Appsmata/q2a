@@ -11,7 +11,7 @@ I can make custom plugins at a request. Simply do two things:
 
 .
 
-For Payment just paypal me at: [Paypal.me/jacksiro](https://paypal.me/jacksiro)
+For Payment simply: [paypal.me/jacksiro](https://paypal.me/jacksiro)
 --------
 
 .
@@ -25,8 +25,6 @@ PRICE: Both *Free* & Premium @ **$30**
 
 [**Click here for DETAILS and DOWNLOADS**](https://github.com/JackSiro/Q2A-Blog-Post-Plugin)
 
-.
-
 #### 2. Closed Site Plugin
 --------------------------
 Allows for for locking the site to only logged users only. Main features here include showing adverts by the way of html code snippets that can be inserted in various position
@@ -34,8 +32,6 @@ Allows for for locking the site to only logged users only. Main features here in
 PRICE: *Free* Plugin!
 
 [**Click here for DETAILS and DOWNLOADS**](https://github.com/JackSiro/Q2A-Closed-Site-Plugin)
-
-.
 
 #### 3. Simple Slide Plugin
 ---------------------------
@@ -45,8 +41,6 @@ PRICE: *Free* Plugin!
 
 [**Click here for DETAILS and DOWNLOADS**](https://github.com/JackSiro/Q2A-Simple-Slide-Plugin)
 
-.
-
 #### 4. Private Message Adapter Plugin
 --------------------------------------
 Adds an editor of your choice on the private message and feedback pages. Stores your feedback messages on the site too
@@ -54,8 +48,6 @@ Adds an editor of your choice on the private message and feedback pages. Stores 
 PRICE: Premium Plugin @ **$30**
 
 [**Click here for DETAILS and DOWNLOADS**](https://github.com/JackSiro/Q2A-PM-Adapter-Plugin)
-
-.
 
 #### 5. Advanced Tags Plugin
 ----------------------------
