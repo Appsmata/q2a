@@ -5,7 +5,7 @@ Question2Answer is an exciting simple to work with Php script which is highly ex
 
 Plugin Requests
 ---------------
-I can make custom plugins at a request. Simply do two things:
+I can make custom plugins at a request or even improve existing ones for you. Simply do two things:
 - Add your plugin suggestion on [Plugin Requests](http://www.question2answer.org/qa/65702/plugin-requests-what-plugins-wish-have-developed-your-site)
 - Then mail me on: jaksiro@gmail.com
 
@@ -27,7 +27,7 @@ PRICE: Both *Free* & Premium @ **$30**
 
 #### 2. Closed Site Plugin
 --------------------------
-Allows a Q2A site to be locked to allow in registered users only, include support for adversts.
+Allows a Q2A site to be locked to allow in registered users only, include support for adverts.
  
 PRICE: *Free* Plugin!
 
