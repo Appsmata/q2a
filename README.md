@@ -19,7 +19,7 @@ For Payment simply: [paypal.me/jacksiro](https://paypal.me/jacksiro)
 Below are some of my existing plugins which I believe will enhance your site greatly
 #### 1. Blog Post Plugin
 ------------------------
-Allows registered users to maintain an online journal, or blog. Blogs are made up of individual blog entries. By default, the blog entries are displayed by creation time in descending order.
+Allows registered users to maintain an online journal or blog.
 
 PRICE: Both *Free* & Premium @ **$30**
 
@@ -27,7 +27,7 @@ PRICE: Both *Free* & Premium @ **$30**
 
 #### 2. Closed Site Plugin
 --------------------------
-Allows for for locking the site to only logged users only. Main features here include showing adverts by the way of html code snippets that can be inserted in various position
+Allows a Q2A site to be locked to allow in registered users only, include support for adversts.
  
 PRICE: *Free* Plugin!
 
@@ -35,7 +35,7 @@ PRICE: *Free* Plugin!
 
 #### 3. Simple Slide Plugin
 ---------------------------
-A simple 3 image slider with titles, description and links for each slide to spice up your Q2A homepage or whatever page you choose
+A simple image slider for the tops of pages, showing titles, descriptions and links.
 
 PRICE: *Free* Plugin!
 
@@ -43,7 +43,7 @@ PRICE: *Free* Plugin!
 
 #### 4. Private Message Adapter Plugin
 --------------------------------------
-Adds an editor of your choice on the private message and feedback pages. Stores your feedback messages on the site too
+Adds an editor of your choice on the private message and feedback pages, including support for HTML messages.
 
 PRICE: Premium Plugin @ **$30**
 
