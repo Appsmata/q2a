@@ -39,7 +39,7 @@ A simple image slider for the tops of pages, showing titles, descriptions and li
 
 PRICE: *Free* Plugin!
 
-[**Click here for DETAILS and DOWNLOADS**](https://github.com/JackSiro/Q2A-Simple-Slide-Plugin)
+[**Click here for DETAILS and DOWNLOADS**](https://github.com/JackSiro/Q2A-Simple-Slider-Plugin)
 
 #### 4. Private Message Adapter Plugin
 --------------------------------------
@@ -63,6 +63,14 @@ PRICE: Premium Plugin @ **$30**
 -----------------------
 1. Extract zip file.
 2. Place directory inside it in qa-plugin folder.
+.
+
+.
+
+Q2A in Kiswahili East Africa:
+=============================
+
+Swahili Translations [**Question2Answer Swahili Transaltions!**](https://github.com/JackSiro/Q2A-Swahili)
 
 .
 
